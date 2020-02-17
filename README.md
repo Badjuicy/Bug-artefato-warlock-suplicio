@@ -1,0 +1,2 @@
+# Bug-artefato-warlock-suplicio
+O Artefaro [Ulthalesh, a Ceifadora do Vento Morto] , no qual estaca 12 almas e pucha para aumentar o dano em 10% para cada alma ultilizada de 1 - 12 almas totalizando 120% de dano a mais, usando a Habilidade do artefato [Ceifar Almas] , mas infelizmente tanto faz com 1 ou com 2 ... 12 almas , o dano aumentado e de apenas 10% não está escalando o dano conforme a quantidade de almas.
